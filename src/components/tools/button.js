@@ -6,7 +6,7 @@ const Button = ({label, title, disabled = false, onClick, ...props}) => (
     <button
         className={classnames(
             "button",
-            "is-priamry",
+            "is-danger",
             "is-medium",
             "is-fullwidth",
         )}
