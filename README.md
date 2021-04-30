@@ -7,7 +7,7 @@
 ## About
 
 A small pomodoro with React, Bulma & Parcel.
-Hosted on [netlify](https://epic-franklin-fb6b5a.netlify.app/).
+Hosted on [netlify](https://will-pomodoro.netlify.app/).
 
 
 
@@ -31,10 +31,6 @@ I followed the tutoriel made by Leny on youtube :
 Locally:
 
 - `npm run dev`
-
-## Deployed here
-
-[Click](https://will-pomodoro.netlify.app/)
 
 * * *
 
