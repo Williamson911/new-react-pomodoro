@@ -17,7 +17,7 @@ const Pomodoro = () => {
     ] = useTimer(SESSION_DURATION, false, () => setShowModal(true));
 
     const handleMinus = useCallback(
-        () => setSeconds(val => Math.max(val - 60, 1)),
+        () => setSeconds(val => Math.max(val - 60, 0)),
         [setSeconds],
     );
     const handleReset = useCallback(() => setSeconds(SESSION_DURATION), [
