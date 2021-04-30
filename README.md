@@ -13,7 +13,7 @@ Hosted on [netlify](https://will-pomodoro.netlify.app/).
 
 ### Making of pomidor
 
-Pomidor is a [BeCode](https://becode.org) project given to us learners.
+Pomodoro is a [BeCode](https://becode.org) project given to us learners.
 I followed the tutoriel made by Leny on youtube :
 
 1. [env & tooling](https://www.youtube.com/watch?v=hWrcHS-NChs)
